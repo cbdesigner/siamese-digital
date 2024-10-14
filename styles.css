@@ -17,7 +17,8 @@ td,
 tfoot,
 th,
 thead,
-tr {
+tr,
+.table > :not(caption) > * > * {
   color: #fff;
   background-color: transparent;
 }
