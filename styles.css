@@ -5,3 +5,8 @@
 :root {
   --bs-body-bg: var(--bs-gray-100);
 }
+
+body {
+  background-color: black;
+  color: #fff;
+}
