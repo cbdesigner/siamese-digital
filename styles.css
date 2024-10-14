@@ -182,3 +182,7 @@ h2.section-name {
 .navbar-expand-lg .navbar-nav .nav-link {
   color: #fff;
 }
+
+.navbar {
+  padding: 24px;
+}
