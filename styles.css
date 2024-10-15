@@ -161,6 +161,14 @@ tr,
   padding: 16px 16px;
   border-radius: 0;
 }
+.btn-primary:hover {
+  background-color: #39027a;
+  border-color: #39027a;
+}
+.btn-outline-secondary:hover {
+  background-color: #9539ff2e;
+  border-color: #dec1ff;
+}
 
 .btn-primary {
   background-color: #4c00a5;
@@ -240,3 +248,12 @@ img.check {
   display: inline-flex;
   margin-bottom: 16px;
 }
+
+.contact {
+  margin: 80px 0;
+}
+
+/* .featured-blocks {
+  margin-top: 80px;
+  margin-bottom: 80px;
+} */
